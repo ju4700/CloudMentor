@@ -5,4 +5,3 @@ The project is based to setup in NEXT.js
 
 I have made  some  changes (Sayed Muhit Mahmud Inzamam) add new pages, components, and styles to the project. I have also added some new functionalities to the project
 
-
