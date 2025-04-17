@@ -8,3 +8,5 @@ I have made  some  changes (Sayed Muhit Mahmud Inzamam) add new pages, component
 hi , I am Sayed Muhit Mahmud Inzamam, I am a full-stack developer
 I have completed my Bsc in Computer Science and Engineering from Khulna University of Engineering and Technology
 I have completed my Msc in Computer Science and Engineering from Khulna University of Engineering and Technology
+I have completed the project CloudMentor, I have added new pages, components, and styles
+I have also added some new functionalities to the project
