@@ -3,6 +3,5 @@ CloudMentor is a dynamic educational platform where anyone with knowledge and ex
 
 The project is based to setup in NEXT.js
 
-This is going fun .
+I have made  some  changes (Sayed Muhit Mahmud Inzamam) add new pages, components, and styles to the project. I have also added some new functionalities to the project
 
-this also fun and the changes are made from test/copy.
